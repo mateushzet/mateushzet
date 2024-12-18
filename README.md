@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://profile-counter.glitch.me/{username}/count.svg" alt="Visitor Count">
+</p>
 
 <p align="right">
   <img src="https://badges.pufler.dev/visits/mateushzet/mateushzet" alt="Visitor Count">
