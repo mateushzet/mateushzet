@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://profile-counter.glitch.me/{username}/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/{mateushzet}/count.svg" alt="Visitor Count">
 </p>
 
 <p align="right">
