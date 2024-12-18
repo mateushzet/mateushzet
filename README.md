@@ -10,7 +10,7 @@
 </p>
 
 ---
-#### ⚙️ Technologies & Tools
+
 </p>
 <p align="middle">
   <img src="https://img.shields.io/badge/T--SQL-%232F2F2F.svg?style=flat&logo=microsoft-sql-server&logoColor=white" alt="T-SQL">
