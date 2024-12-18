@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/mateushzet/count.svg" alt="Visitor Count">
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/mateushzet/badge-it)](https://badges.pufler.dev)
+![Visits Badge](https://badges.pufler.dev/visits/mateushzet/badge-it)
 
 <p align="right">
   <img src="https://badges.pufler.dev/visits/mateushzet/mateushzet" alt="Visitor Count">
