@@ -1,4 +1,7 @@
 <p align="middle">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=mateushzet&show_icons=true&theme=dracula" alt="GitHub Streak" /></a>
+</p>
+<p align="middle">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushzet&theme=dracula" alt="Streak Stats">
 </p>
 <p align="middle">
