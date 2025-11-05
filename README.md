@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Language Stats">
   <img src="https://komarev.com/ghpvc/?username=mateushzet&color=blueviolet" alt="Visitor Count" />
 </p>
-<img src="https://streak-stats.demolab.com?user=mateushzet&theme=dracula&v=1" alt="Streak Stats">
-<img src="https://streak-stats.demolab.com?user=mateushzet&theme=dracula" alt="Streak Stats">
-<img src="https://github-readme-streak-stats.vercel.app?user=mateushzet&theme=dracula" alt="Streak Stats">
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=mateushzet&theme=dracula" alt="GitHub Streak Stats">
+</p>
