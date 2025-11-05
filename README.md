@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=mateushzet&theme=dracula" alt="GitHub Streak Stats">
+</p>
+
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushzet&theme=dracula&layout=compact&hide_title=true" alt="Language Stats">
 </p>
@@ -8,6 +12,4 @@
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Language Stats">
   <img src="https://komarev.com/ghpvc/?username=mateushzet&color=blueviolet" alt="Visitor Count" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.vercel.app?user=mateushzet&theme=dracula" alt="GitHub Streak Stats">
-</p>
+
