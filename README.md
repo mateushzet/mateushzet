@@ -1,5 +1,5 @@
 <p align="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushzet&theme=dracula" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=mateushzet&theme=dracula" alt="Streak Stats">
 </p>
 <img src="https://streak-stats.demolab.com?user=mateushzet" />
 <p align="middle">
