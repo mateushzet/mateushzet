@@ -1,6 +1,7 @@
 <p align="middle">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushzet&theme=dracula" alt="Streak Stats">
 </p>
+<img src="https://streak-stats.demolab.com?user=mateushzet&theme=dracula" />
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushzet&theme=dracula&layout=compact&hide_title=true" alt="Language Stats">
 </p>
